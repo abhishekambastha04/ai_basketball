@@ -3,6 +3,7 @@
 
 ## Overview
 This project implements a **Naive Bayes Classifier** to predict basketball outcomes (e.g., win/loss, player performance, or game features) based on historical game data. The Naive Bayes algorithm assumes that all input features are conditionally independent, making it computationally efficient and interpretable.
+
 ---
 
 ## Key Features
